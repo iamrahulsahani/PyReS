@@ -1,2 +1,2 @@
 # PyReS
-PyReS 
+PyReS : Python Recommendation System
